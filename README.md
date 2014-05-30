@@ -1,3 +1,3 @@
 # placebo
 
-It does anything you want.
+It does anything you want - better.
